@@ -1,6 +1,6 @@
 # Dale Blumrick Virtual CV
 Hello, and welcome to my virtual CV.
-[Click here](https://Dale8246.github.io/VirtualCV) to view my CV.
+[Click here](https://Dale8246.github.io/VirtualCV) to view.
 
 # Background
 This virtual CV is used to show my personal CV in a polished and ordered fashion with all relevant sections and contact information included.
