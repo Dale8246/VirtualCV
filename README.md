@@ -8,7 +8,7 @@ This virtual CV is used to show my personal CV in a polished and ordered fashion
 # Features
 - **CV navigation**: (Home, About, Education, Skills, Projects and Contact).
 - **CV**:The ability to view my CV as a pdf.
-- **Social**:Links to socials.
+- **Social**:Links to socials(LinkedIn: www.linkedin.com/in/dale-blumrick-645891320 ,GitHub: https://github.com/Dale8246).
 
 # Information Present
 - **About**: A short description of my personal goals and hopes for future career paths.
